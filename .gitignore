@@ -11,3 +11,5 @@ oscdump
 oscdump-oscdump.o
 oscsend
 oscsend-oscsend.o
+*.o
+.sconsign.dblite
